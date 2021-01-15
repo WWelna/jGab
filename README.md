@@ -1,13 +1,40 @@
-## jGab
+# jGab
 Unofficial API interface to Gab
 
-### Usage Instructions
+## Usage Instructions
+```
+usage: jGab [-h] --Cookies COOKIES [--out OUT] [--auto-out] [--until UNTIL]
+            {profile,followers,following,timeline,comments,photos,video,group_timeline,group_info}
+            ...
 
-### Things that won't ever be implimented
+named arguments:
+  -h, --help             show this help message and exit
+  --Cookies COOKIES, -c COOKIES
+                         Gab Cookies File
+  --out OUT, -o OUT      Output File, or stdout by default
+  --auto-out, -ao        Outputs a  file  of  format:  <USERNAME>-<DATE  of
+                         YYYYMMDDHHMM>-<COMMAND>.json.     For     example:
+                         testuser-202101151200-following.json     (default:
+                         false)
+  --until UNTIL, -u UNTIL
+                         Grab data until it reaches  or past specified date
+                         in YYYYMMDDHHMM.  Default  is  14  days  (default:
+                         202101010332)
+
+commands:
+  {profile,followers,following,timeline,comments,photos,video,group_timeline,group_info}
+
+-Trust The Plan-
+```
+## Things that won't ever be implimented (To Prevent Abuse)
 * Follow / Unfollow
 * Posting
+* Blocking / Unblocking
+* Report
+* Mute
+* Private Messaging
 
-### License
+## License
  
 Copyright (C) 2021 William Welna (wwelna@occultusterra.com)
 
