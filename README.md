@@ -34,6 +34,9 @@ commands:
 * Mute
 * Private Messaging
 
+## Release Notes
+Until further notice, there will be no public releases of this tool. You may request a copy of this tool, and if I like you, I'd be willing to part with it. 
+
 ## License
  
 Copyright (C) 2021 William Welna (wwelna@occultusterra.com)
