@@ -35,26 +35,45 @@ commands:
 * Private Messaging
 
 ## Release Notes
-Until further notice, there will be no public releases of this tool. You may request a copy of this tool, and if I like you, I'd be willing to part with it. 
+Until further notice, there will be no public releases of this tool. You may request a copy of this tool, and if I like you, I'd be willing to part with it. This is to prevent abuse of the information gathered using this tool for malicious purposes. The restrictive License this and all other tools relating to scraping and OSINT is to protect and and prevent such malicious abuse of this software by others. This software is freely available upon request to anyone doing academic research or any other forms of legitimate research.
 
 ## License
  
-Copyright (C) 2021 William Welna (wwelna@occultusterra.com)
+         ~~~ CONFIDENTIAL SOURCE CODE AND/OR SOFTWARE ~~~
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (c) 2021 William H. Welna, All Rights Reserved.
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+NOTICE: All information contained herein is, and remains the
+property of William H. Welna. The intellectual and technical concepts
+contained herein are proprietary to William H. Welna and may be
+covered by U.S. and Foreign Patents, patents in process, and are
+protected by trade secret and/or copyright law. Dissemination of this
+information or reproduction of this material is strictly forbidden
+unless prior written permission is obtained from William H. Welna.
+Access to the source code and/or software contained herein is hereby
+forbidden to anyone except individuals who have executed
+Confidentiality and Non-disclosure agreements explicitly covering
+such access, or has prior written permision obtained from
+William H. Welna.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+The copyright notice above does not evidence any actual or intended 
+publication or disclosure of this source code and/or software, which
+includes information that is confidential and/or proprietary, and is
+the property of, William H. Welna.
+
+Publication and/or disclosure of this source code and/or software is
+an automatic and irrevocable agreement by the publisher and/or
+individual or company to pay a fee of $10,000 US Dollars to
+William H. Welna. This is not negotiatable, and William H. Welna
+reserves the right to enforce payment of this fee due to this
+agreement at any time.
+
+ANY REPRODUCTION, MODIFICATION, DISTRIBUTION, PUBLIC PERFORMANCE, OR
+PUBLIC DISPLAY OF OR THROUGH USE OF THIS SOURCE CODE AND/OR SOFTWARE
+WITHOUT THE EXPRESS WRITTEN CONSENT OF William H. Welna IS STRICTLY
+PROHIBITED, AND IN VIOLATION OF APPLICABLE LAWS AND INTERNATIONAL
+TREATIES. THE RECEIPT OR POSSESSION OF THIS SOURCE CODE, AND/OR
+RELATED INFORMATION, AND/OR SOFTWARE DOES NOT CONVEY OR IMPLY ANY
+RIGHTS TO REPRODUCE, DISCLOSE OR DISTRIBUTE ITS CONTENTS, OR TO
+MANUFACTURE, USE, OR SELL ANYTHING THAT IT MAY DESCRIBE, IN WHOLE OR
+IN PART.
