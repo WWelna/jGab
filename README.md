@@ -35,11 +35,11 @@ commands:
 * Private Messaging
 
 ## Release Notes
-Until further notice, there will be no public releases of this tool. You may request a copy of this tool, and if I like you, I'd be willing to part with it. This is to prevent abuse of the information gathered using this tool for malicious purposes. The restrictive License this and all other tools relating to scraping and OSINT is to protect and and prevent such malicious abuse of this software by others. This software is freely available upon request to anyone doing academic research or any other forms of legitimate research.
+Until further notice, there will be no public releases of this tool. You may request a copy of this tool, and if I like you, I'd be willing to part with it. This is to prevent abuse of the information gathered using this tool for malicious purposes. The restrictive License this and all other tools relating to scraping and OSINT is to protect and and prevent such malicious abuse of this software by others. This software is freely available upon request to anyone doing academic research or any other forms of legitimate research and/or journalism, including individuals as well as companies (commercial or nonprofit).
 
 ## License
- 
-         ~~~ CONFIDENTIAL SOURCE CODE AND/OR SOFTWARE ~~~
+
+CONFIDENTIAL SOURCE CODE AND/OR SOFTWARE
 
 Copyright (c) 2021 William H. Welna, All Rights Reserved.
 
